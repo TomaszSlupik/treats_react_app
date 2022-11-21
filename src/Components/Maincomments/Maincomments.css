@@ -1,0 +1,27 @@
+.comment, .commentmain  {
+    font-size: 3rem;
+    margin-left: 1em;
+    margin-top: 0.4em;
+    font-family: 'Dancing Script', cursive;
+}
+
+.commentmain {
+    font-family: Roboto;
+    margin-top: 0em;
+}
+
+.maincomment {
+    position: relative;
+    width: 80%;
+    border-radius: 8px;
+    margin-left: 1em;
+    border: 0.5px solid #008b8b;
+    box-shadow: 5px 5px 10px black;
+    margin: 2em;
+}
+
+.commentmaintext {
+    padding: 0.2em 1.4em;
+    font-size: 1.3rem;
+}
+

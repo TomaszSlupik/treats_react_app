@@ -1,0 +1,18 @@
+.boxOpinion {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.comment, .commentmain  {
+    font-size: 3rem;
+    margin-left: 1em;
+    margin-top: 0.4em;
+    font-family: 'Dancing Script', cursive;
+}
+
+.commentmain {
+    font-family: Roboto;
+    margin-top: 0em;
+}
+
