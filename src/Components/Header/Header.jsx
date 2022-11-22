@@ -135,6 +135,11 @@ export default function Header() {
             style={style.nav}>
                     <div>O nas</div>
             </Link>
+            <Link to="/gallery"
+            onClick={handleDrawerClose}
+            style={style.nav}>
+                    <div>Galeria</div>
+            </Link>
             <Link to="/dainty"
             onClick={handleDrawerClose}
             style={style.nav}>
