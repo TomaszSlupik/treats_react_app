@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/treats_react_app/static/css/main.f78efedd.css",
+    "main.js": "/treats_react_app/static/js/main.2bc5c5c8.js",
+    "static/media/dessert.jpg": "/treats_react_app/static/media/dessert.a1a3164af72e43f55bed.jpg",
+    "static/media/coffee.jpg": "/treats_react_app/static/media/coffee.c388deebba42b9f80863.jpg",
+    "static/media/hot.jpg": "/treats_react_app/static/media/hot.55be636e5b177039bfba.jpg",
+    "index.html": "/treats_react_app/index.html",
+    "main.f78efedd.css.map": "/treats_react_app/static/css/main.f78efedd.css.map",
+    "main.2bc5c5c8.js.map": "/treats_react_app/static/js/main.2bc5c5c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78efedd.css",
+    "static/js/main.2bc5c5c8.js"
+  ]
+}
